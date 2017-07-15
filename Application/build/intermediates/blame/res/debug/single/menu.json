@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/src/main/res/menu/gatt_services.xml"
+    }
+]

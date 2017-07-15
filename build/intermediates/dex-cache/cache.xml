@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/.android/build-cache/36f61ab0f65d728811ea301fb173a2081152cb5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/classes_9c407b8a19c0d559708753ee06dd25ebddb68a2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_2c0d60d37388721b05b7bc7090e922f7e3d306f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_2c0d60d37388721b05b7bc7090e922f7e3d306f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/.android/build-cache/b69fdfd13799d5eeaa7f557c110ef262ca4be54d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/classes_c353340e5942af888ae9fc5570460bf34fe9d0ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/.android/build-cache/5ecb4e79be954383d1bf3330ed738316f640fb6f/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_f8ade9d94d8c76173024407c1efb43a658ae4e1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/.android/build-cache/5ecb4e79be954383d1bf3330ed738316f640fb6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/classes_8e6d455d7152dbbca0f77db425fb2983517829c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/.android/build-cache/882f69fe44561ce7b3977f10451af2b710fc85ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/classes_a03d674591830a8f6e23fef5de67c1ee9893b899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/.android/build-cache/b69fdfd13799d5eeaa7f557c110ef262ca4be54d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/classes_c353340e5942af888ae9fc5570460bf34fe9d0ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/.android/build-cache/5ecb4e79be954383d1bf3330ed738316f640fb6f/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_f8ade9d94d8c76173024407c1efb43a658ae4e1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/.android/build-cache/a5d65ca72696b5944b6fae0f703903b9e06f7cb4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/classes_60a6ef8074cdd4bfdcd48a5fc3162070948218d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/.android/build-cache/a5d65ca72696b5944b6fae0f703903b9e06f7cb4/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_f6ccc089e06b7195291ac6a154e18ee838049e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/.android/build-cache/36f61ab0f65d728811ea301fb173a2081152cb5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/classes_9c407b8a19c0d559708753ee06dd25ebddb68a2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/.android/build-cache/a5d65ca72696b5944b6fae0f703903b9e06f7cb4/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_f6ccc089e06b7195291ac6a154e18ee838049e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/.android/build-cache/a5d65ca72696b5944b6fae0f703903b9e06f7cb4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/classes_60a6ef8074cdd4bfdcd48a5fc3162070948218d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/.android/build-cache/5ecb4e79be954383d1bf3330ed738316f640fb6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/classes_8e6d455d7152dbbca0f77db425fb2983517829c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richhowley/.android/build-cache/882f69fe44561ce7b3977f10451af2b710fc85ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/pre-dexed/debug/classes_a03d674591830a8f6e23fef5de67c1ee9893b899.jar" />
+    </item>
+
+</items>

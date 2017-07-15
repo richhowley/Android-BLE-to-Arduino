@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/res/merged/debug/layout/gatt_services_characteristics.xml",
+        "source": "/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/src/main/res/layout/gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/res/merged/debug/layout/actionbar_indeterminate_progress.xml",
+        "source": "/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/src/main/res/layout/actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/res/merged/debug/layout/communication_layout.xml",
+        "source": "/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/src/main/res/layout/communication_layout.xml"
+    },
+    {
+        "merged": "/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/build/intermediates/res/merged/debug/layout/listitem_device.xml",
+        "source": "/Users/richhowley/Documents/android studio projects/AS_BluetoothLeChat/Application/src/main/res/layout/listitem_device.xml"
+    }
+]
