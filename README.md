@@ -20,6 +20,7 @@ hosted on a given Bluetooth LE device.
 The Activities communicate with the Service, which in turn interacts with the [Bluetooth LE API][2].
 
 [1]:http://developer.android.com/reference/android/app/Service.html
+
 [2]:https://developer.android.com/reference/android/bluetooth/BluetoothGatt.html
 
 Pre-requisites
