@@ -28,4 +28,4 @@ Setup
 
 This project builds on my computer using Android Studio 2.3.1.  
 
-The CC2541 chip on a HM-10 module runs at 3.3v.  The module on the photo allows 5v input, so the wiring is Arduino 5V => HM-10 5V, Arduino GND => HM-10 GND, Arduino RX => HM-10 TX (pink, green and yellow wires, respectivley, in the photo).  This setup only sends in oned direction, be aware that you probably want to do level shifting for two way communication.
+The CC2541 chip on a HM-10 module runs at 3.3v.  The module on the photo allows 5v input, so the wiring is Arduino 5V => HM-10 5V, Arduino GND => HM-10 GND and Arduino RX => HM-10 TX (pink, green and yellow wires, respectivley, in the photo).  This setup only sends in one direction, be aware that you probably want to do level shifting for two way communication.
