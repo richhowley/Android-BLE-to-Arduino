@@ -11,7 +11,7 @@ GitHub : https://developer.android.com/reference/android/bluetooth/BluetoothGatt
 Introduction
 ------------
 
-The easiest, least expensive way to add Bluetooth Low Energy communication capabilities to an Arduino is to use a HM-10 module, which are readily avaailable on Ebay.  These modules are great because they wrap all the BLE communication code in their firmware so on the Arudion side you're simply reading the serial port.  
+The easiest, least expensive way to add Bluetooth Low Energy communication capabilities to an Arduino is to use one of the HM-10 modules which are readily avaailable on Ebay.  These modules are great because they wrap all the BLE communication code in their firmware so on the Arudion side you're simply reading the serial port.  
 
 
 Images
