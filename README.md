@@ -4,8 +4,8 @@ Android-BLE-to-Arduino
 
 This code can be used to communicate with an Arduino and is based on sample code from Google and another githubber.
 
-https://github.com/googlesamples/android-BluetoothLeGatt
-https://github.com/danasf/hm10-android-arduino
+Google :http://developer.android.com/reference/android/app/Service.html
+GitHub :https://developer.android.com/reference/android/bluetooth/BluetoothGatt.html
 
 Introduction
 ------------
@@ -19,9 +19,7 @@ hosted on a given Bluetooth LE device.
 
 The Activities communicate with the Service, which in turn interacts with the [Bluetooth LE API][2].
 
-Google :http://developer.android.com/reference/android/app/Service.html
 
-Git Hub :https://developer.android.com/reference/android/bluetooth/BluetoothGatt.html
 
 Pre-requisites
 --------------
