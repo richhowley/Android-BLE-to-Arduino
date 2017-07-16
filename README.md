@@ -5,6 +5,7 @@ Android-BLE-to-Arduino
 This code can be used to communicate with an Arduino and is based on sample code from Google and another githubber.
 
 Google :http://developer.android.com/reference/android/app/Service.html
+
 GitHub :https://developer.android.com/reference/android/bluetooth/BluetoothGatt.html
 
 Introduction
