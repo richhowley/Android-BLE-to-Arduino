@@ -2,11 +2,10 @@
 Android-BLE-to-Arduino
 ===================================
 
-This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
-to transmit arbitrary data between devices.
+This code can be used to communicate with an Arduino and is based on sample code from Google and another githubber.
 
 https://github.com/googlesamples/android-BluetoothLeGatt
-
+https://github.com/danasf/hm10-android-arduino
 
 Introduction
 ------------
